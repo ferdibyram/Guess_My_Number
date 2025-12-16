@@ -1,6 +1,6 @@
 # Guess My Number
 
-## This is a Basic Level DOM Project
+## This is a Basic DOM Project
 
 ---
 
